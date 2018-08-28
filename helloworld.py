@@ -1,4 +1,4 @@
-print("Hello world")
+print("Hello UTC")
 
 x = int(input('Enter an integer: '))
 if x%2 == 0:
