@@ -12,5 +12,7 @@ else:
     print('odd')
 print('Done with conditional')
 
+print("now seeing how to upload again from desktop")
+
 
 
